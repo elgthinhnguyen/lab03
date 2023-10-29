@@ -1,4 +1,0 @@
-﻿  FileName.cpp
-C:\Users\This\source\repos\bai 1\bai3\FileName.cpp(24,11): warning C4018: '<': signed/unsigned mismatch
-C:\Users\This\source\repos\bai 1\bai3\FileName.cpp(32,9): warning C4018: '<': signed/unsigned mismatch
-  bai3.vcxproj -> C:\Users\This\source\repos\bai 1\x64\Debug\bai3.exe
