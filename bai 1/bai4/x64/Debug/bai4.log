@@ -1,5 +1,8 @@
 ﻿  FileName.cpp
-C:\Users\This\source\lab03\bai 1\bai4\FileName.cpp(26,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\This\source\lab03\bai 1\bai4\FileName.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\This\source\lab03\bai 1\bai4\FileName.cpp(42,20): warning C4018: '<=': signed/unsigned mismatch
-  bai4.vcxproj -> C:\Users\This\source\lab03\bai 1\x64\Debug\bai4.exe
+D:\BT\bai 1\bai4\FileName.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+D:\BT\bai 1\bai4\FileName.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\BT\bai 1\bai4\FileName.cpp(55,20): warning C4018: '<=': signed/unsigned mismatch
+D:\BT\bai 1\bai4\FileName.cpp(140,20): warning C4018: '<=': signed/unsigned mismatch
+D:\BT\bai 1\bai4\FileName.cpp(176,20): warning C4018: '<=': signed/unsigned mismatch
+D:\BT\bai 1\bai4\FileName.cpp(178,9): warning C4018: '<': signed/unsigned mismatch
+  bai4.vcxproj -> D:\BT\bai 1\x64\Debug\bai4.exe
