@@ -1,0 +1,4 @@
+﻿  program.cpp
+D:\BT\bai 1\bai14\program.cpp(19,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\BT\bai 1\bai14\program.cpp(23,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  bai14.vcxproj -> D:\BT\bai 1\x64\Debug\bai14.exe

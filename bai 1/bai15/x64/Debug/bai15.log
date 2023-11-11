@@ -1,0 +1,3 @@
+﻿  program.cpp
+D:\BT\bai 1\bai15\program.cpp(6,20): warning C4101: 'kq': unreferenced local variable
+  bai15.vcxproj -> D:\BT\bai 1\x64\Debug\bai15.exe
