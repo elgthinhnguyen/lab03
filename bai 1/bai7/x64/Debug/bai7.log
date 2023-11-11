@@ -1,0 +1,5 @@
+﻿  program.cpp
+D:\BT\bai 1\bai7\program.cpp(23,20): warning C4018: '<=': signed/unsigned mismatch
+D:\BT\bai 1\bai7\program.cpp(32,20): warning C4018: '<=': signed/unsigned mismatch
+D:\BT\bai 1\bai7\program.cpp(49,12): warning C4018: '<': signed/unsigned mismatch
+  bai7.vcxproj -> D:\BT\bai 1\x64\Debug\bai7.exe
